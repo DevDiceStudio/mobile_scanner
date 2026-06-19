@@ -42,7 +42,7 @@ Add the dependency in your `pubspec.yaml` file:
 
 ```
 dependencies:
-  qr_scanner: ^<latest_version>
+  mobile_scanner: ^<latest_version>
 ```
 
 Then run:
