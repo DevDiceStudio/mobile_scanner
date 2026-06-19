@@ -42,7 +42,10 @@ Add the dependency in your `pubspec.yaml` file:
 
 ```
 dependencies:
-  mobile_scanner: ^<latest_version>
+  mobile_scanner:
+    git:
+      url: https://github.com/DevDiceStudio/mobile_scanner.git
+      ref: main
 ```
 
 Then run:
